@@ -1,3 +1,4 @@
 # LeetcodePython
 Leetcode in Phyton
-- leetcode.com
+- https://leetcode.com/
+- https://neetcode.io/roadmap
